@@ -1,0 +1,18 @@
+.name-wrapper {
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 600;
+    &-name {
+      color: yellow;   
+    }
+}
+.desc {
+    &-text {
+        color: white;
+        font-size: 1.5rem;
+    }
+    &-subtext {
+        color: white;
+        font-size: 1rem;
+    }
+}
